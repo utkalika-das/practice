@@ -1,4 +1,8 @@
 hi everyone utkalika here always to fear
 i am here to do nothing.
+<<<<<<< HEAD
 hi hello ...
+=======
+hi hello i am in love
+>>>>>>> 6c12f3ff5236d565c3af433136bd0b76f0680668
 
